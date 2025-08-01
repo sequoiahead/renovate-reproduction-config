@@ -1,0 +1,17 @@
+{
+  "packageRules": [
+    {
+      "matchDatasources": [
+        "github-tags"
+      ],
+      "matchDepTypes": [
+        "action"
+      ],
+      "matchPackageNames": [
+        "sequoiahead/renovate-reproduction"
+      ],
+      "versionCompatibility": "^(?<compatibility>.*)-v(?<version>.*)$",
+      "versioning": "semver"
+    }
+  ]
+}
