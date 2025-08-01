@@ -8,9 +8,8 @@
         "action"
       ],
       "matchPackageNames": [
-        "sequoiahead/renovate-reproduction"
+        "sequoiahead/renovate-reproduction-actions"
       ],
-      "sourceUrl": "https://github.com/sequoiahead/renovate-reproduction-actions",
       "versionCompatibility": "^(?<compatibility>.*)-v(?<version>.*)$",
       "versioning": "semver"
     }
