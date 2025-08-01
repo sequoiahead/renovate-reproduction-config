@@ -10,6 +10,7 @@
       "matchPackageNames": [
         "sequoiahead/renovate-reproduction"
       ],
+      "sourceUrl": "https://github.com/sequoiahead/renovate-reproduction-actions",
       "versionCompatibility": "^(?<compatibility>.*)-v(?<version>.*)$",
       "versioning": "semver"
     }
